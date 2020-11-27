@@ -1,6 +1,17 @@
 {
-  "name": "svelte-app",
-  "version": "1.0.0",
+  "name": "svelte-console-table",
+  "version": "0.0.1",
+  "author": "Jeffrey Chen <jcyh0120@gmail.com>",
+  "description": "Svelte Component that prints table like console.table() on web",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcyh0120/svelte-console-table.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcyh0120/svelte-console-table/issues"
+  },
+  "homepage": "https://github.com/jcyh0120/svelte-console-table",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
